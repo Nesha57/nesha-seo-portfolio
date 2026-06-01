@@ -1,4 +1,3 @@
-
 # Screenshots
 
 ## WordPress Dashboard
@@ -16,5 +15,5 @@
 ## Comment Moderation
 ![Comment Moderation](comment-moderation.png)
 
-## Published Blogs
+## Published Blog
 ![Published Blog](published-blog.png)
