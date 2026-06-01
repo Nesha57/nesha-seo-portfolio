@@ -4,14 +4,14 @@
 
 Aspiring SEO and Digital Marketing Professional with hands-on experience in:
 
-- WordPress Management
-- On-Page SEO
-- Keyword Research
-- AIOSEO Optimization
-- Content Publishing
-- Blogger Web 2.0 Creation
-- Off-Page SEO Activities
-- Comment Moderation
+* WordPress Management
+* On-Page SEO
+* Keyword Research
+* AIOSEO Optimization
+* Content Publishing
+* Blogger Web 2.0 Creation
+* Off-Page SEO Activities
+* Comment Moderation
 
 ## Live SEO Projects
 
@@ -19,12 +19,12 @@ Aspiring SEO and Digital Marketing Professional with hands-on experience in:
 
 Worked on:
 
-- Blog publishing
-- SEO optimization
-- Meta title creation
-- Meta description writing
-- Keyword targeting
-- AIOSEO implementation
+* Blog publishing
+* SEO optimization
+* Meta title creation
+* Meta description writing
+* Keyword targeting
+* AIOSEO implementation
 
 ### Sample Blogs
 
@@ -40,28 +40,28 @@ https://grocerystoresindia.blogspot.com/
 
 ### SEO Activities
 
-- Keyword Research
-- Blog Submission
-- Social Bookmarking
-- Classified Submission
-- Web 2.0 Creation
-- Image Submission
-- Forum Submission
-- Q&A Submission
-- Blog Commenting
+* Keyword Research
+* Blog Submission
+* Social Bookmarking
+* Classified Submission
+* Web 2.0 Creation
+* Image Submission
+* Forum Submission
+* Q&A Submission
+* Blog Commenting
 
 ## Tools Used
 
-- WordPress
-- AIOSEO
-- Google Sheets
-- Blogger
-- Excel
-- ChatGPT
+* WordPress
+* AIOSEO
+* Google Sheets
+* Blogger
+* Excel
+* ChatGPT
 
 ## Contact
 
-Email: neshanesha001@gmail.com
+Email: [neshanesha001@gmail.com](mailto:neshanesha001@gmail.com)
 
 Phone: 9344229097
 
